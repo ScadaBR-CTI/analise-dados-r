@@ -29,7 +29,3 @@ Avaliar padrões de consumo, demanda elétrica e comportamento operacional dos g
 - Gestão energética
 - Apoio à decisão técnica
 - Base para Machine Learning futuro
-
-## Autor
-
-Rafael Martins Tavares
