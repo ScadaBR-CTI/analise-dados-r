@@ -2,6 +2,8 @@
 
 Projeto voltado ao tratamento, modelagem e análise de dados energéticos provenientes do sistema supervisório ScadaBR do CTI Renato Archer.
 
+**[Algoritmo](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/01_mysql_import.R)**: Este link contém o algoritmo desenvolvido para tratamento e análise dos dados obtidos a partir do banco de dados do CTI Renato Archer.
+
 ## Objetivo
 
 Avaliar padrões de consumo, demanda elétrica e comportamento operacional dos grupos consumidores da instituição.
