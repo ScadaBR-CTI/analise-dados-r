@@ -15,7 +15,6 @@ Avaliar padrões de consumo, demanda elétrica e comportamento operacional dos g
 - MySQL
 - ScadaBR
 - Shiny
-- GitHub
 
 ## Estrutura do Projeto
 
