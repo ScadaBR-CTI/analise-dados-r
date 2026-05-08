@@ -21,11 +21,43 @@ Os algoritmos podem ser acessados nos links abaixo:
 * [**1. Acessar algoritmo em R**](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/01_mysql_import.R)
 * [**2. Acessar algoritmo em R**](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/Carga_CTI_Shiny.R)
 
-### Dashbords com o Shiny
+## Presentação do Sistema ScadaBR-CTI
+
+A seguir será apresentada uma visão geral do sistema ScadaBR-CTI, ilustrada por três imagens representando as principais funcionalidades da plataforma análise desenvolvida. As interfaces apresentadas demonstram os recursos de visualização, processamento analítico e exploração dos dados operacionais e energéticos coletados pelo sistema.
+
+### *Dashbords* com o Shiny
+
+A imagem a seguir apresenta a tela inicial do *dashboard* analítico desenvolvido em Shiny. Nessa interface, o usuário pode selecionar o período de análise e o ponto de medição desejado, permitindo a exploração dinâmica das informações armazenadas no sistema.
+
+Também são exibidos os indicadores, posicionados na parte superior da interface para facilitar a interpretação rápida dos dados monitorados.
+
+Além disso, observa-se o gráfico de **Série Temporal**, responsável por apresentar a evolução histórica das variáveis monitoradas ao longo do tempo, permitindo identificar padrões de comportamento, tendências operacionais e possíveis características de sazonalidade nos dados coletados.
 
 <p align="center">
-  <img src="img/Painel.png" alt="Paínel ScadaBR CTI" width="100%">
+  <img src="img/Painel1.png" alt="Paínel ScadaBR CTI" width="100%">
 </p>
+
+Aqui observamos o gráfico de Perfil de Carga, responsável por permitir a visualização do comportamento do consumo energético ao longo do período operacional analisado.
+
+Esse tipo de análise possibilita identificar horários de maior demanda, padrões de utilização da infraestrutura e variações de consumo entre diferentes faixas horárias, dias da semana ou períodos específicos de operação.
+
+O gráfico também auxilia na identificação de picos de consumo, comportamentos atípicos e oportunidades de otimização energética, fornecendo suporte para análises comparativas e avaliação da eficiência operacional dos sistemas monitorados.
+
+<p align="center">
+  <img src="img/Painel2.png" alt="Paínel ScadaBR CTI" width="100%">
+</p>
+
+A tabela de dados consolidados, responsável por apresentar de forma estruturada as informações processadas pelo sistema a partir das séries temporais armazenadas no banco de dados.
+
+Nessa visualização, são exibidos os valores agregados por período de análise, permitindo consultar métricas como consumo, médias operacionais, horários de registro e demais indicadores derivados calculados pela camada analítica.
+
+A tabela também auxilia na validação dos dados monitorados e na realização de análises comparativas, servindo como apoio para interpretações mais detalhadas das informações apresentadas nos gráficos e indicadores do *dashboard*.
+
+<p align="center">
+  <img src="img/Painel3.png" alt="Paínel ScadaBR CTI" width="100%">
+</p>
+
+---
 
 ## Objetivo
 
