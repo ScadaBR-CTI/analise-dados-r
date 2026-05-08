@@ -18,7 +18,7 @@ O segundo corresponde a uma aplicação mais completa e interativa desenvolvida 
 
 Os algoritmos podem ser acessados nos links abaixo:
 
-**1. Acessar algoritmo em R**
+* [**1. Acessar algoritmo em R:**](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/01_mysql_import.R) Primeiro script.
 
 ## Objetivo
 
