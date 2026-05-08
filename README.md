@@ -18,19 +18,21 @@ O segundo corresponde a uma aplicação mais completa e interativa desenvolvida 
 
 Os algoritmos podem ser acessados nos links abaixo:
 
-* [**1. Acessar algoritmo em R:**](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/01_mysql_import.R) Primeiro script.
+* [**1. Acessar algoritmo em R**](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/01_mysql_import.R)
+* [**2. Acessar algoritmo em R**](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/Carga_CTI_Shiny.R)
 
 ## Objetivo
 
 Avaliar padrões de consumo, demanda elétrica e comportamento operacional dos grupos consumidores da instituição.
 
-## Tecnologias Utilizadas
+## Tecnologias Empregadas
 
-- R
-- RStudio
-- MySQL
-- ScadaBR
-- Shiny
+O ambiente de desenvolvimento e análise é composto pelas seguintes tecnologias:
+
+- R / RStudio para processamento, modelagem e análise estatística
+- MySQL como camada de armazenamento dos dados históricos
+- ScadaBR para aquisição e supervisão operacional
+- Shiny para construção de dashboards e aplicações web interativas
 
 ## Estrutura do Projeto
 
@@ -42,7 +44,10 @@ Avaliar padrões de consumo, demanda elétrica e comportamento operacional dos g
 
 ## Resultados Esperados
 
-- Identificação de picos de demanda
-- Gestão energética
-- Apoio à decisão técnica
-- Base para Machine Learning futuro
+Com a consolidação das análises, espera-se obter maior visibilidade sobre o comportamento energético da infraestrutura monitorada, permitindo:
+
+- Identificação de padrões de consumo e horários de pico
+- Apoio à gestão e eficiência energética
+- Suporte à tomada de decisão técnica
+- Identificação de anomalias operacionais
+- Formação de base histórica para futuras aplicações de Machine Learning e análise preditiva
