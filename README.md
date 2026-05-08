@@ -21,6 +21,12 @@ Os algoritmos podem ser acessados nos links abaixo:
 * [**1. Acessar algoritmo em R**](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/01_mysql_import.R)
 * [**2. Acessar algoritmo em R**](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/Carga_CTI_Shiny.R)
 
+### Dashbords com o Shiny
+
+<p align="center">
+  <img src="img/Fluxograma_resumido.png" alt="Paínel ScadaBR CTI" width="80%">
+</p>
+
 ## Objetivo
 
 Avaliar padrões de consumo, demanda elétrica e comportamento operacional dos grupos consumidores da instituição.
