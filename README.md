@@ -21,7 +21,7 @@ Os algoritmos podem ser acessados nos links abaixo:
 * [**1. Acessar algoritmo em R**](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/01_mysql_import.R)
 * [**2. Acessar algoritmo em R**](https://github.com/ScadaBR-CTI/analise-dados-r/blob/main/scripts/Carga_CTI_Shiny.R)
 
-## Presentação do Sistema ScadaBR-CTI
+## Apresentação do Sistema ScadaBR-CTI
 
 A seguir será apresentada uma visão geral do sistema ScadaBR-CTI, ilustrada por três imagens representando as principais funcionalidades da plataforma análise desenvolvida. As interfaces apresentadas demonstram os recursos de visualização, processamento analítico e exploração dos dados operacionais e energéticos coletados pelo sistema.
 
