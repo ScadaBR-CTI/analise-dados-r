@@ -24,7 +24,7 @@ Os algoritmos podem ser acessados nos links abaixo:
 ### Dashbords com o Shiny
 
 <p align="center">
-  <img src="img/Fluxograma_resumido.png" alt="Paínel ScadaBR CTI" width="80%">
+  <img src="img/Painel.png" alt="Paínel ScadaBR CTI" width="80%">
 </p>
 
 ## Objetivo
