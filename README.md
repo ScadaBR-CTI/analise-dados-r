@@ -8,6 +8,10 @@ O desenvolvimento contempla desde a importação e estruturação das bases hist
 
 O projeto também busca consolidar uma base analítica reutilizável para futuras aplicações em monitoramento inteligente, detecção de padrões e modelos preditivos.
 
+## Objetivo
+
+Avaliar padrões de consumo, demanda elétrica e comportamento operacional dos grupos consumidores da instituição.
+
 ## Algoritmo
 
 Foram desenvolvidos dois algoritmos principais para importação, tratamento e análise dos dados energéticos.
@@ -58,10 +62,6 @@ A tabela também auxilia na validação dos dados monitorados e na realização 
 </p>
 
 ---
-
-## Objetivo
-
-Avaliar padrões de consumo, demanda elétrica e comportamento operacional dos grupos consumidores da instituição.
 
 ## Tecnologias Empregadas
 
