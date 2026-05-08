@@ -10,8 +10,15 @@ O projeto também busca consolidar uma base analítica reutilizável para futura
 
 ## Algoritmo
 
-O algoritmo principal desenvolvido para importação, tratamento e análise dos dados pode ser acessado no link abaixo:
-**Acessar algoritmo em R**
+Foram desenvolvidos dois algoritmos principais para importação, tratamento e análise dos dados energéticos.
+
+O primeiro consiste em uma aplicação executada diretamente no RStudio, com abordagem mais analítica e individual para cada medidor monitorado. Esse algoritmo permite a geração de gráficos de perfil de carga por dia da semana, além do cálculo de médias de consumo e análises comparativas entre períodos operacionais.
+
+O segundo corresponde a uma aplicação mais completa e interativa desenvolvida com Shiny, incorporando visualizações dinâmicas, séries temporais, tabelas analíticas e dashboards operacionais. Essa aplicação possibilita uma exploração mais ampla dos dados históricos, facilitando o acompanhamento do comportamento energético e a interpretação dos indicadores gerados.
+
+Os algoritmos podem ser acessados nos links abaixo:
+
+**1. Acessar algoritmo em R**
 
 ## Objetivo
 
