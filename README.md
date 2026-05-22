@@ -90,4 +90,4 @@ Com a consolidação das análises, espera-se obter maior visibilidade sobre o c
 - Identificação de anomalias operacionais
 - Formação de base histórica para futuras aplicações de Machine Learning e análise preditiva
 
-  **[Página Inicial](https://github.com/ScadaBR-CTI)**
+  - **[Página Inicial](https://github.com/ScadaBR-CTI)**
